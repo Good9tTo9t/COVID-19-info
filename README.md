@@ -3,4 +3,4 @@
 
 請用```pip install requests```安裝requests
 
-國家代碼請參考：http://www.cbc.gov.tw/public/Attachment/83189591771.pdf P1~4
+國家代碼請參考：https://www.cbc.gov.tw/public/Attachment/2839313471.pdf
