@@ -4,3 +4,4 @@
 請用```pip install requests```安裝requests
 
 國家代碼請參考：https://www.cbc.gov.tw/public/Attachment/2839313471.pdf
+使用API：https://covid19-api.org/
