@@ -2,3 +2,5 @@
 簡單的COVID資訊搜尋引擎。 Simple COVID info search engine. (Python)
 
 請用```pip install requests```安裝requests
+
+國家代碼請參考：http://www.cbc.gov.tw/public/Attachment/83189591771.pdf P1~4
