@@ -8,7 +8,7 @@
 請用```pip install requests```安裝requests。
 
 # 各平台安裝方法
-Windows：於python官網下載https://www.python.org 直接跑原始碼或是等我做編譯好的exe。
+Windows：於python官網下載https://www.python.org 直接跑原始碼或是看旁邊我做的Release。
 
 Mac：同上，不過我不熟不知道怎麼編譯執行檔，改天再來研究。
 
